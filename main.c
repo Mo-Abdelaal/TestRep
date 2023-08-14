@@ -12,5 +12,5 @@ C1 after merge
 remore commit
 ----------
 NC 1
-NC 2-2
+NC 2-2 22
 }
