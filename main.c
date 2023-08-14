@@ -10,4 +10,5 @@ Commit 1 in Branch bug fix
 bug fixed
 C1 after merge
 remore commit
+make wrong commit
 }
